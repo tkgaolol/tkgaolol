@@ -14,6 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 
 ### Technologies
@@ -23,6 +26,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![QT](https://img.shields.io/badge/-QT-000?&logo=QT)
 
 
 ## 😲 My Contributions
