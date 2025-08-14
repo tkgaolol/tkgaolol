@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tkgaolol
-- 👨‍🎓 I'm studying for my bachelor's degree at the **The Hong Kong University of Science and Technology**.
+- 👨‍🎓 I'm studying for my MPhil degree at the **The Hong Kong University of Science and Technology**.
 - 👀 I’m interested in Embodied Intelligence / GenAI
 - 🌱 I’m currently learning Reinforcement Learning
 <!---
